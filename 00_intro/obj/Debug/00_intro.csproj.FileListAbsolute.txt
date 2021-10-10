@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\CSharpFundamentals\00_intro\bin\Debug\00_intro.exe.config
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\CSharpFundamentals\00_intro\bin\Debug\00_intro.exe
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\CSharpFundamentals\00_intro\bin\Debug\00_intro.pdb
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\CSharpFundamentals\00_intro\obj\Debug\00_intro.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\CSharpFundamentals\00_intro\obj\Debug\00_intro.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\CSharpFundamentals\00_intro\obj\Debug\00_intro.exe
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\CSharpFundamentals\00_intro\obj\Debug\00_intro.pdb

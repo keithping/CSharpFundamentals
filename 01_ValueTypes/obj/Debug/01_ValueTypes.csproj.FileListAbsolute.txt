@@ -1,0 +1,14 @@
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\CSharpFundamentals\01_ValueTypes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\CSharpFundamentals\01_ValueTypes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\CSharpFundamentals\01_ValueTypes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\CSharpFundamentals\01_ValueTypes\bin\Debug\01_ValueTypes.dll
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\CSharpFundamentals\01_ValueTypes\bin\Debug\01_ValueTypes.pdb
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\CSharpFundamentals\01_ValueTypes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\CSharpFundamentals\01_ValueTypes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\CSharpFundamentals\01_ValueTypes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\CSharpFundamentals\01_ValueTypes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\CSharpFundamentals\01_ValueTypes\obj\Debug\01_ValueTypes.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\CSharpFundamentals\01_ValueTypes\obj\Debug\01_ValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\CSharpFundamentals\01_ValueTypes\obj\Debug\01_ValueTypes.csproj.CopyComplete
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\CSharpFundamentals\01_ValueTypes\obj\Debug\01_ValueTypes.dll
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\CSharpFundamentals\01_ValueTypes\obj\Debug\01_ValueTypes.pdb
