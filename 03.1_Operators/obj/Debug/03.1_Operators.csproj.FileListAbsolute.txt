@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\CSharpFundamentals\03.1_Operators\bin\Debug\03.1_Operators.exe.config
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\CSharpFundamentals\03.1_Operators\bin\Debug\03.1_Operators.exe
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\CSharpFundamentals\03.1_Operators\bin\Debug\03.1_Operators.pdb
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\CSharpFundamentals\03.1_Operators\obj\Debug\03.1_Operators.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\CSharpFundamentals\03.1_Operators\obj\Debug\03.1_Operators.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\CSharpFundamentals\03.1_Operators\obj\Debug\03.1_Operators.exe
+C:\Users\Owner\Desktop\ElevenFiftyProjects\EFA_Course\GoldBadge\CSharpFundamentals\03.1_Operators\obj\Debug\03.1_Operators.pdb
